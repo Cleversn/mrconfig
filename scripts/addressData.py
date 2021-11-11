@@ -336,7 +336,7 @@ addresses = {
 	'pt_BR': {
 		'lang': 'Brazilian Portuguese',
 		'email': [
-			'Cleverson Casarin Uliana <clul@mm.st>',
+			'Cleverson Casarin Uliana <clul@disr.it>',
 			'Marlin Rodrigues <marlincgrodrigues@yahoo.com.br>',
 			'Tiago Melo Casal <tcasal@intervox.nce.ufrj.br>',
 		],
@@ -468,7 +468,7 @@ addresses = {
 			'maro.zhang@gmail.com',
 			'Aaron Wu <waaron2000@gmail.com>',
 			'Victor Cai <surfer0627@gmail.com>',
-			'haach111000@gmail.com',
+		'haach111000@gmail.com',
 		],
 	},
 }
